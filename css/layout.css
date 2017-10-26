@@ -36,3 +36,7 @@
 .col-3 {
   width: 100%
 }
+
+[class*="col-"] {
+  margin: 2%
+}
