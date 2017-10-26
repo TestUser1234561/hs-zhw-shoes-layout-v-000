@@ -40,3 +40,7 @@
 [class*="col-"] {
   margin: 2%
 }
+
+.first {
+  margin: 0;
+}
